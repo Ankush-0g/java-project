@@ -156,8 +156,8 @@ java -jar RMS_GUI.jar
 
 ## Author
 
-**Kazunori Hayashi**  
-Version 1.0 - 02/08/2013
+**Ankush Gupta**  
+Version 1.0 - 10/05/2026
 
 ## License
 
