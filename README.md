@@ -53,5 +53,4 @@ These projects highlight key Java programming milestones and fundamentals:
 
 If you want to reach out or talk about Java development, feel free to connect!
 
-*   **GitHub:** [@Ankush-0g](https://github.com)
-*   **LinkedIn:** [Your Name](https://linkedin.com)
+*   **GitHub:** [@Ankush-0g](https://github.com/Ankush-0g)
